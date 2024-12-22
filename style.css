@@ -19,6 +19,29 @@ body {
     margin-top: -10px;
 }
 
+.nav-bar{
+    margin-left: auto;
+}
+
+.nav-bar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    gap: 20px;
+}
+  
+.nav-bar a {
+    color: black;
+    font-weight: normal;
+    text-decoration: none;
+}
+  
+.nav-bar a:hover {
+    font-weight: bold;
+    font-size: 120%; 
+}
+
 .stats-container {
     display: flex;
     align-items: center;
@@ -78,4 +101,8 @@ button {
     padding: 1%;
     margin: 1%;
     border-radius: 7px;
+}
+
+button:hover{
+    box-shadow: 0 0 30px lightblue;
 }
