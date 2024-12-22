@@ -23,6 +23,8 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:  
 
+<blockquote class="imgur-embed-pub" lang="en" data-id="9iBjdu7"><a href="https://imgur.com/9iBjdu7">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
 <img src="assets/walkthrough.gif" title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
