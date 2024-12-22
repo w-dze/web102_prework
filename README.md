@@ -21,9 +21,9 @@ The following **optional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented features:
+Here's a walkthrough of implemented features:  
 
-<img src="https://imgur.com/a/yrFc0S4" title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src="assets/walkthrough.gif" title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Loom and ezgif.com  
